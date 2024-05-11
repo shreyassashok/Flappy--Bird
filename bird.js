@@ -1,5 +1,5 @@
 const birdElem = document.querySelector("[data-bird]")
-const BIRD_SPEED = 0.4
+const BIRD_SPEED = 1.0
 const JUMP_DURATION = 50
 let timeSinceLastJump = Number.POSITIVE_INFINITY
 
